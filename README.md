@@ -8,3 +8,4 @@ The Colab here could be easily converted to training any other type of visual de
 Therefore, I am training it with my own dataset which 6 classes of Recycle Item consists of cardboard, glass, paper, metal, plastic and trash.
 
 In file of RecycleItem.zip, there are files of test.record, train.record, test_labels and train_labels. which used for training 
+In file of Recycle item Image.zip, there are images dataset og the 6 classes whuch had split into train test file.
