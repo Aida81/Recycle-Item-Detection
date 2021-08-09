@@ -11,4 +11,4 @@ In file of Recycle item Image.zip, there are images dataset of the 6 classes whi
 
 In file of RecycleItem.zip, there are files of test.record, train.record, test_labels and train_labels. which used for training 
 
-https://youtu.be/y41j4iJG6EQ
+You can see the demo at [Youtube] (https://youtu.be/y41j4iJG6EQ)
